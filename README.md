@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pierce Putz
 
-### A budding Python developer
+### Software Engineer
 
 - 🔭 I'm currently working on **Little Free Shelves and a new wellness app.**
 
