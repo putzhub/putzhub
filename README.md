@@ -10,7 +10,7 @@
 
 - 🤝 I'm looking for help with **learning SQL.**
 
-- 💬 Ask me about **Python, Javascript, Front-end**
+- 💬 Ask me about **Python, Javascript, HTML/CSS**
 
 - 📫 How to reach me **inbox@putz.space**
 
