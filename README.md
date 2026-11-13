@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://portfolio.putz.space](https://portfolio.putz.space)**
 
-- 📝 I regularly write articles on **[https://web.ludoloon.studio](https://web.ludoloon.studio)**
+- 📝 I can help you make a website at **[https://web.ludoloon.studio](https://web.ludoloon.studio)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
