@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, Javascript, Front-end**
 
-- 📫 How to reach me **git@putz.space**
+- 📫 How to reach me **inbox@putz.space**
 
 - ⚡ Fun fact **I make video game music as LudoLoon Studio (https://ludoloon.studio)**
 
